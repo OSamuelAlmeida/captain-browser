@@ -1,0 +1,6 @@
+[submodule "renderer"]
+	path = renderer
+	url = git@github.com:OSamuelAlmeida/lookout-engine.git
+[submodule "ship_haul/osx"]
+	path = ship_haul/osx
+	url = https://github.com/OSamuelAlmeida/ship-haul-osx.git
